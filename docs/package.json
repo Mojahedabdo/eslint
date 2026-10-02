@@ -42,7 +42,7 @@
         "imagemin-cli": "^7.0.0",
         "js-yaml": "^3.14.1",
         "luxon": "^2.4.0",
-        "markdown-it": "^12.2.0",
+        "markdown-it": "^15.0.2",
         "markdown-it-anchor": "^8.1.2",
         "markdown-it-container": "^3.0.0",
         "npm-run-all2": "^5.0.0",
