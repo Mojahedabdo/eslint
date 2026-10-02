@@ -178,7 +178,7 @@
     "jiti-v2.1": "npm:jiti@2.1.x",
     "knip": "^5.60.2",
     "lint-staged": "^11.0.0",
-    "markdown-it": "^12.2.0",
+    "markdown-it": "^15.0.2",
     "markdown-it-container": "^3.0.0",
     "marked": "^4.0.8",
     "metascraper": "^5.25.7",
